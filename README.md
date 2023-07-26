@@ -1,5 +1,5 @@
 # :star2: About the project
-A project cloning a British food-delivering app called Deliveroo using React Native, Redux, TailwindCSS, and Sanity
+A project cloning a British food-delivering app called Deliveroo using React Native, Redux, NativeWind (TailwindCSS), and Sanity
 
 # :camera: Screenshots
 <div style="display: inline_block" align="center"><br>
