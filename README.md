@@ -10,3 +10,7 @@ A project cloning a British food-delivering app called Deliveroo using React Nat
   <img align="center" alt="React"  width="150" src="https://github.com/behong1999/deliveroo_clone/assets/44105063/abef7405-0aef-4c3a-8c8e-0cbd76b92011">
 </div>
 
+# 👀 Download Expo from PlayStore or AppStore to see the demo via the QR code
+<img align="center" alt="React"  width="180" src="https://github.com/behong1999/deliveroo_clone/assets/44105063/d4e69995-3f7d-4361-b7c8-b1f8001e8358">
+
+
